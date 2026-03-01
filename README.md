@@ -11,102 +11,101 @@ The model is intended for educational purposes, gardening reference, and plant i
 
 ### 1. Lily
 ![images](https://github.com/user-attachments/assets/b4da3480-9fde-454c-8bf8-7dabe6be9275)
-
 - Scientific Name: *Lilium spp.*  
 - Description: Large, fragrant flowers that come in various colors.
 
 ### 2. Poppy
-![Poppy](images/poppy_sample.jpg)  
+ ![000017](https://github.com/user-attachments/assets/2a82d0d7-8936-48c2-a209-96a884f186b1)
 - Scientific Name: *Papaver spp.*  
 - Description: Bright, colorful flowers often seen in gardens and fields.
 
 ### 3. Bougainvillea
-![Bougainvillea](images/bougainvillea_sample.jpg)  
+![000030](https://github.com/user-attachments/assets/40caade4-1ea1-4ada-abf3-94f7b2e1a1bf)
 - Scientific Name: *Bougainvillea spp.*  
 - Description: Vibrant climbing plant with papery bracts in various shades.
 
 ### 4. Chrysanthemum
-![Chrysanthemum](images/chrysanthemum_sample.jpg)  
+![000033](https://github.com/user-attachments/assets/96d5af1c-264f-4975-bfab-27dbcd890369)
 - Scientific Name: *Chrysanthemum spp.*  
 - Description: Flowering plant known for its large, bushy blooms.
 
 ### 5. Ixora
-![Ixora](images/ixora_sample.jpg)  
+![r](https://github.com/user-attachments/assets/573003ad-d389-4115-aacf-b255a2963e71)
 - Scientific Name: *Ixora coccinea*  
 - Description: Small, clustered tropical flowers, usually red, orange, or yellow.
 
 ### 6. Hibiscus
-![Hibiscus](images/hibiscus_sample.jpg)  
+![000019](https://github.com/user-attachments/assets/6b8b0fdb-d6ae-4279-a298-87f3e27c1cf4)
 - Scientific Name: *Hibiscus rosa-sinensis*  
 - Description: Large, colorful flowers with a prominent stamen.
 
 ### 7. Jasmine
-![Jasmine](images/jasmine_sample.jpg)  
+![000025](https://github.com/user-attachments/assets/84054fdf-7ee8-4ba3-8862-74d5a3fefaa9)
 - Scientific Name: *Jasminum spp.*  
 - Description: Small, white fragrant flowers often used in perfumes.
 
 ### 8. Geranium
-![Geranium](images/geranium_sample.jpg)  
+![000013](https://github.com/user-attachments/assets/c1833ea9-279d-487d-9dc2-f6317ae8426b)
 - Scientific Name: *Pelargonium spp.*  
 - Description: Garden-friendly plants with vibrant cluster blooms.
 
 ### 9. Zinnia
-![Zinnia](images/zinnia_sample.jpg)  
+![000234](https://github.com/user-attachments/assets/013ba301-16da-4188-9453-10641dd755ca)
 - Scientific Name: *Zinnia spp.*  
 - Description: Bright, daisy-like flowers with long-lasting petals.
 
 ### 10. Orchid
-![Orchid](images/orchid_sample.jpg)  
+![000038](https://github.com/user-attachments/assets/a9af43f8-4367-4491-8628-bdfc9f6b9c33)
 - Scientific Name: *Orchidaceae*  
 - Description: Exotic flowers with diverse colors and intricate patterns.
 
 ### 11. Marigold
-![Marigold](images/marigold_sample.jpg)  
+![000106](https://github.com/user-attachments/assets/d8dddd61-7380-4f9d-ac74-439a36f35b70)
 - Scientific Name: *Tagetes spp.*  
 - Description: Bright orange or yellow flowers commonly used in festivals.
 
 ### 12. Cosmos
-![Cosmos](images/cosmos_sample.jpg)  
+![000086](https://github.com/user-attachments/assets/c4a6680e-382a-42b7-a112-dc507c91f2d7)
 - Scientific Name: *Cosmos bipinnatus*  
 - Description: Delicate flowers with daisy-like petals and long stems.
 
 ### 13. Tulip
-![Tulip](images/tulip_sample.jpg)  
+![000233](https://github.com/user-attachments/assets/52a2ecea-d0b9-4125-84e9-1a3588682a56)
 - Scientific Name: *Tulipa spp.*  
 - Description: Iconic spring flower with cup-shaped blooms in many colors.
 
 ### 14. Anthurium
-![Anthurium](images/anthurium_sample.jpg)  
+![000042](https://github.com/user-attachments/assets/82fd64cd-f31a-4995-91ca-2b2963f8b6bd)
 - Scientific Name: *Anthurium andraeanum*  
 - Description: Heart-shaped flowers with glossy spathes and a prominent spadix.
 
 ### 15. Daisy
-![Daisy](images/daisy_sample.jpg)  
+![000009](https://github.com/user-attachments/assets/15e965da-782b-4c9c-ae46-a2ceb06d87ad)
 - Scientific Name: *Bellis perennis*  
 - Description: Simple, cheerful flowers with white petals and yellow centers.
 
 ### 16. Rose
-![Rose](images/rose_sample.jpg)  
+![images (39)](https://github.com/user-attachments/assets/a6c2b948-438a-46fc-a400-11407b33c729)
 - Scientific Name: *Rosa spp.*  
 - Description: Classic flowers with fragrant petals, available in many colors.
 
 ### 17. Sunflower
-![Sunflower](images/sunflower_sample.jpg)  
+![000057](https://github.com/user-attachments/assets/04265a76-9224-4e98-8bbf-c5c42db4c895)
 - Scientific Name: *Helianthus annuus*  
 - Description: Tall flowers with large yellow petals and a dark center.
 
 ### 18. Petunia
-![Petunia](images/petunia_sample.jpg)  
+![000001](https://github.com/user-attachments/assets/ef8014ef-b0da-4f3c-bdf0-04fa10e2955e)
 - Scientific Name: *Petunia spp.*  
 - Description: Funnel-shaped flowers, commonly used in hanging baskets.
 
 ### 19. Lotus
-![Lotus](images/lotus_sample.jpg)  
+![20](https://github.com/user-attachments/assets/f40486f9-ff60-4d41-a664-ecb843245e45)
 - Scientific Name: *Nelumbo nucifera*  
 - Description: Aquatic flower with large, fragrant petals and symbolic significance.
 
 ### 20. Peony
-![Peony](images/peony_sample.jpg)  
+![wq](https://github.com/user-attachments/assets/ff231013-1e79-476a-bf82-d5f587a8237c)
 - Scientific Name: *Paeonia spp.*  
 - Description: Large, fluffy flowers with vibrant petals, often fragrant.
 
