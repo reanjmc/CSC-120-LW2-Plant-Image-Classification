@@ -150,7 +150,19 @@ The model is intended for educational purposes, gardening reference, and plant i
 
 
 ----------------------------------------------------------------------------------------------
+## Reflection Questions
 
-## Notes
-- All images used for testing and training were collected with proper diversity in angles and lighting.  
-- The exported model files are included in the repository for further use.
+### 1. How did the number of images per class affect your model’s accuracy?
+Having 250 images per class improved the model’s accuracy and ensured balanced training. More images helped the model recognize patterns better and reduced bias between classes.
+
+### 2. Which plant species were most commonly misclassified and why?
+Flowers with similar shapes and colors, such as daisy and chrysanthemum or rose and peony, were sometimes misclassified due to similarities in petal structure and overall appearance.
+
+### 3. How did changing the epochs, batch size, or learning rate affect the training results?
+Increasing epochs improved accuracy up to a certain point, but too many could lead to overfitting. A moderate batch size kept training stable, and a learning rate of 0.001 allowed steady learning without large fluctuations.
+
+### 4. What challenges did you encounter during dataset collection and labeling?
+It was challenging to find high-quality, non-duplicate images and maintain equal image distribution per species. Some flowers had many similar-looking images, making correct labeling important.
+
+### 5. If you were to improve your model, what specific changes would you make and why?
+I would add more diverse images for visually similar flowers and further fine-tune the training parameters to improve accuracy and reduce misclassification.
