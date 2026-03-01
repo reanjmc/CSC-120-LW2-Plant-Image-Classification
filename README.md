@@ -10,7 +10,8 @@ The model is intended for educational purposes, gardening reference, and plant i
 ## Plant Species
 
 ### 1. Lily
-![Lily](images/lily_sample.jpg)  
+![images](https://github.com/user-attachments/assets/b4da3480-9fde-454c-8bf8-7dabe6be9275)
+
 - Scientific Name: *Lilium spp.*  
 - Description: Large, fragrant flowers that come in various colors.
 
