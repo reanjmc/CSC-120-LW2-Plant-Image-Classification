@@ -15,7 +15,7 @@ The model is intended for educational purposes, gardening reference, and plant i
 - Description: Large, fragrant flowers that come in various colors.
 
 ### 2. Poppy
- ![000017](https://github.com/user-attachments/assets/2a82d0d7-8936-48c2-a209-96a884f186b1)
+![000022](https://github.com/user-attachments/assets/7a3eeed4-6ff2-4b82-9e23-50a0702a6401)
 - Scientific Name: *Papaver spp.*  
 - Description: Bright, colorful flowers often seen in gardens and fields.
 
@@ -50,12 +50,12 @@ The model is intended for educational purposes, gardening reference, and plant i
 - Description: Garden-friendly plants with vibrant cluster blooms.
 
 ### 9. Zinnia
-![000005](https://github.com/user-attachments/assets/bb9aa5c1-7242-4273-a700-003803505b1c)
+![000015](https://github.com/user-attachments/assets/67e5fb6c-7d59-41cb-a272-05736e41f244)
 - Scientific Name: *Zinnia spp.*  
 - Description: Bright, daisy-like flowers with long-lasting petals.
 
 ### 10. Orchid
-![000036](https://github.com/user-attachments/assets/08d74f14-3be1-4ac8-b3ec-4c7fa7b0b151)
+![000057](https://github.com/user-attachments/assets/e7a85089-6ff9-49a7-8920-97786ce4b124)
 - Scientific Name: *Orchidaceae*  
 - Description: Exotic flowers with diverse colors and intricate patterns.
 
@@ -70,7 +70,7 @@ The model is intended for educational purposes, gardening reference, and plant i
 - Description: Delicate flowers with daisy-like petals and long stems.
 
 ### 13. Tulip
-![000038](https://github.com/user-attachments/assets/05e18286-98bd-4cc2-8466-affb21928155)
+![Uploading 000049.jpg…]()
 - Scientific Name: *Tulipa spp.*  
 - Description: Iconic spring flower with cup-shaped blooms in many colors.
 
@@ -112,32 +112,32 @@ The model is intended for educational purposes, gardening reference, and plant i
 ---
 
 ## Model Training Details
-- Epochs: 50  
-- Batch Size: 16  
-- Learning Rate: 0.001  
+- Epochs: 50 → Enough for the model to learn patterns without overfitting too much.
+- Batch Size: 16 → Stable training and good balance between speed and accuracy.
+- Learning Rate: 0.001 → Standard value that allows steady learning without skipping optimal weights.
 - Images per Class: 250
 
-![Training Settings](images/training_settings.png)
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/d46d0cf8-c5b4-4871-82f5-e69cf654f3f0" />
 
 ---
 
 ## Model Evaluation
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/0cfdccc5-6a54-4b50-a3aa-277ebb13231e" />
 
 ### Accuracy per Class
-![Accuracy per Class](images/accuracy_per_class.png)
+<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/9e7133e4-d45a-4e92-8bb7-86d825adef4c" />
 
 ### Overall Accuracy
-![Overall Accuracy](images/overall_accuracy.png)
+<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/4fbe0dc3-1b69-40b5-bc51-7a560f905824" />
 
 ---
 
 ## Model Testing
 
 ### Test Results
-1. ![Test 1](images/test1.png)  
+1. <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/2b6b5194-eb19-49e6-b87d-f820a2a832fd" />
 2. ![Test 2](images/test2.png)  
 3. ![Test 3](images/test3.png)  
 4. ![Test 4](images/test4.png)  
