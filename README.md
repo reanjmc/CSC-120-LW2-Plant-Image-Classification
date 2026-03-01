@@ -50,12 +50,12 @@ The model is intended for educational purposes, gardening reference, and plant i
 - Description: Garden-friendly plants with vibrant cluster blooms.
 
 ### 9. Zinnia
-![000234](https://github.com/user-attachments/assets/013ba301-16da-4188-9453-10641dd755ca)
+![000005](https://github.com/user-attachments/assets/bb9aa5c1-7242-4273-a700-003803505b1c)
 - Scientific Name: *Zinnia spp.*  
 - Description: Bright, daisy-like flowers with long-lasting petals.
 
 ### 10. Orchid
-![000038](https://github.com/user-attachments/assets/a9af43f8-4367-4491-8628-bdfc9f6b9c33)
+![000036](https://github.com/user-attachments/assets/08d74f14-3be1-4ac8-b3ec-4c7fa7b0b151)
 - Scientific Name: *Orchidaceae*  
 - Description: Exotic flowers with diverse colors and intricate patterns.
 
@@ -70,7 +70,7 @@ The model is intended for educational purposes, gardening reference, and plant i
 - Description: Delicate flowers with daisy-like petals and long stems.
 
 ### 13. Tulip
-![000233](https://github.com/user-attachments/assets/52a2ecea-d0b9-4125-84e9-1a3588682a56)
+![000038](https://github.com/user-attachments/assets/05e18286-98bd-4cc2-8466-affb21928155)
 - Scientific Name: *Tulipa spp.*  
 - Description: Iconic spring flower with cup-shaped blooms in many colors.
 
